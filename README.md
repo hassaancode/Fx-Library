@@ -11,7 +11,7 @@ A curated list of essential plugins and tools for **Adobe After Effects** and **
 - [Utilities](#utilities)
 - [Contributing](#contributing)
 
-## VFX
+## ✨ VFX
 
 | Plugin | Compatibility | Price | Description |
 | :--- | :--- | :--- | :--- |
@@ -35,7 +35,7 @@ A curated list of essential plugins and tools for **Adobe After Effects** and **
 | **[Composite Brush](https://aescripts.com/composite-brush/)** | After Effects | Paid | Color selector and modifier for keying. |
 | **[Dust Transition](https://aescripts.com/dust-transition/)** ([AE](https://aescripts.com/dust-transition/)), ([Resolve](https://aescripts.com/dust-transition-for-davinci-resolve/?)) | AE, Resolve | Paid | Dissolve images into pixel-sized particles. |
 
-## Film Look & Color
+## 🎞️ Film Look & Color
 
 | Plugin | Compatibility | Price | Description |
 | :--- | :--- | :--- | :--- |
@@ -45,7 +45,7 @@ A curated list of essential plugins and tools for **Adobe After Effects** and **
 | **[Spotlight FX Film Grain](https://spotlightfx.com/)** | AE, Resolve | Paid | Film grain overlays and textures. |
 | **[CinematicX LUTs](https://theresolve.store/cinematicx-luts-for-davinci-resolve/)** | AE, Resolve | Paid | Cinematic LUT packs. |
 
-## Motion Graphics
+## 🚀 Motion Graphics
 
 | Plugin | Compatibility | Price | Description |
 | :--- | :--- | :--- | :--- |
@@ -60,7 +60,7 @@ A curated list of essential plugins and tools for **Adobe After Effects** and **
 | **[Karton](https://aescripts.com/karton/)** | After Effects | Free | Dynamic text boxes and shape layers. |
 | **[Handy Particles](https://aescripts.com/handy-particles/)** | After Effects | Paid | Particle systems specifically for motion design. |
 
-## 3D
+## 🧊 3D
 
 | Plugin | Compatibility | Price | Description |
 | :--- | :--- | :--- | :--- |
@@ -72,7 +72,7 @@ A curated list of essential plugins and tools for **Adobe After Effects** and **
 | **[Red Giant Horizon](https://www.maxon.net/en/product-detail/red-giant/particles-and-3d/horizon?)** | After Effects | Paid | 360-degree backgrounds and environments. |
 | **[AI Relight](https://aescripts.com/ai-relight/)** | After Effects | Paid | Add virtual 3D lights to footage using AI. |
 
-## Utilities
+## 🛠️ Utilities
 
 | Plugin | Compatibility | Price | Description |
 | :--- | :--- | :--- | :--- |
@@ -84,7 +84,7 @@ A curated list of essential plugins and tools for **Adobe After Effects** and **
 | **[RSMB](https://revisionfx.com/products/rsmb/)** | AE, Resolve | Paid | ReelSmart Motion Blur - adds natural motion blur. |
 | **[Twixtor](https://revisionfx.com/products/twixtor/)** | AE, Resolve | Paid | Intelligent slow motion and frame rate conversion. |
 
-## Contributing
+## 🤝 Contributing
 
 Contributions are welcome!
 
