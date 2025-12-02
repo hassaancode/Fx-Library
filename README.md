@@ -1,4 +1,4 @@
-# VFX & Film Look Plugin Library
+# Effects Plugin Library
 
 A curated list of essential plugins and tools for **Adobe After Effects** and **DaVinci Resolve**.
 
