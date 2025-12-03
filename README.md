@@ -26,7 +26,6 @@ A curated list of essential plugins and tools for **Adobe After Effects** and **
 | **[Video Copilot Optical Flares](https://www.videocopilot.net/products/opticalflares/)** | ![AE][icon1] | ![Paid][badge-paid]  | Realistic lens flares design and animation. |
 | **[Video Copilot Heat Distortion](https://www.videocopilot.net/products/heatdistortion/)** | ![AE][icon1] | ![Paid][badge-paid]  | Realistic heat waves and distortion. |
 | **[Video Copilot Orb](https://www.videocopilot.net/orb/)** | ![AE][icon1] | ![Free][badge-free] | Create 3D spheres and planets with realistic textures. |
-| **[Video Copilot Saber](https://www.videocopilot.net/blog/2016/03/new-plug-in-saber-now-available-100-free/)** | ![AE][icon1] | ![Free][badge-free] | Energy beams, lightsabers, and electric effects. |
 | **[RE:Vision Effects DE:Noise](https://revisionfx.com/products/denoise/)** | ![AE][icon1], ![![![Resolve][icon2]][icon2]][icon2] | ![Paid][badge-paid]  | Motion-compensated noise reduction. |
 | **[RE:Vision Effects FieldsKit](https://revisionfx.com/products/fieldskit/)** | ![AE][icon1], ![![![Resolve][icon2]][icon2]][icon2] | ![Paid][badge-paid]  | Advanced deinterlacing and field manipulation. |
 | **[Stardust](https://aescripts.com/stardust/)** | ![AE][icon1] | ![Paid][badge-paid]  | Modular 3D particle system. |
