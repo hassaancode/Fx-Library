@@ -5,7 +5,7 @@ A curated list of essential plugins and tools for **Adobe After Effects** and **
 ## Table of Contents
 
 - [VFX](#-vfx)
-- [Film Look & Color](#-film-look--color)
+- [Film Emulation](#-film-emulation)
 - [Motion Graphics](#-motion-graphics)
 - [3D](#-3d)
 - [Utilities](#-utilities)
@@ -44,7 +44,7 @@ A curated list of essential plugins and tools for **Adobe After Effects** and **
 | **[Particle Builder](https://pixflow.net/particle-builder/)** | ![AE][icon1] | ![Free][badge-free] | Build custom particle systems easily. |
 | **[Break It](https://aescripts.com/break-it/?)** | ![AE][icon1] | ![Paid][badge-paid]  | Advanced shattering and destruction simulations. |
 
-## 🎞️ Film Look & Color
+## 🎞️ Film Emulation
 
 | Plugin | Compatibility | Price | Description |
 | :--- | :---: | :---: | :--- |
