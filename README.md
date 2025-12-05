@@ -34,20 +34,6 @@ A curated list of essential plugins and tools for **Adobe After Effects** and **
 | **[Real Glow](https://aescripts.com/real-glow/)** | ![AE][icon1] | ![Paid][badge-paid]  | Realistic light falloff glow. |
 | **[Signal](https://aescripts.com/signal/)** | ![AE][icon1] | ![Paid][badge-paid]  | Analog video glitch emulation. |
 | **[Pixel Sorter](https://aescripts.com/pixel-sorter/)** | ![AE][icon1] | ![Paid][badge-paid]  | Glitch effect based on pixel sorting algorithms. |
-| **[Supercomp](https://www.maxon.net/en/product-detail/red-giant/vfx/supercomp)** | ![AE][icon1] | ![Paid][badge-paid]  | Seamless compositing of VFX elements. |
-| **[Primatte Keyer](https://www.maxon.net/en/product-detail/red-giant/vfx/primatte-keyer)** | ![AE][icon1], ![Resolve][icon2] | ![Paid][badge-paid]  | Professional chroma keying tool. |
-| **[Composite Brush](https://aescripts.com/composite-brush/)** | ![AE][icon1] | ![Paid][badge-paid]  | Color selector and modifier for keying. |
-| **[Dust Transition](https://aescripts.com/dust-transition/)** ([AE](https://aescripts.com/dust-transition/)), ([Resolve](https://aescripts.com/dust-transition-for-davinci-resolve/?)) | ![AE][icon1], ![Resolve][icon2] | ![Paid][badge-paid]  | Dissolve images into pixel-sized particles. |
-| **[Nebulosity](https://aescripts.com/nebulosity/)** | ![AE][icon1] | ![Paid][badge-paid]  | Volumetric nebula and cloud generation. |
-| **[Fractal Noise 3D](https://aescripts.com/fractal-noise-3d/)** | ![AE][icon1] | ![Paid][badge-paid]  | 3D fractal noise with depth control. |
-| **[Discotext](https://aescripts.com/discotext/)** | ![AE][icon1] | ![Paid][badge-paid]  | Animated text effects with particles and physics. |
-| **[Particle Builder](https://pixflow.net/particle-builder/)** | ![AE][icon1] | ![Free][badge-free] | Build custom particle systems easily. |
-| **[Break It](https://aescripts.com/break-it/?)** | ![AE][icon1] | ![Paid][badge-paid]  | Advanced shattering and destruction simulations. |
-
-## 🎞️ Film Emulation
-
-| Plugin | Compatibility | Price | Description |
-| :--- | :---: | :---: | :--- |
 | **[Dehancer](https://www.dehancer.com/)** | ![AE][icon1], ![Resolve][icon2] | ![Paid][badge-paid]  | Complete film emulation (Grain, Bloom, Halation). |
 | **[FilmConvert Nitrate](https://www.filmconvert.com/)** | ![AE][icon1], ![Resolve][icon2] | ![Paid][badge-paid]  | Film stock emulation with sensor matching. |
 | **[Magic Bullet Suite](https://www.maxon.net/en/product-detail/red-giant/color/magicbullet-looks?)** | ![AE][icon1], ![Resolve][icon2] | ![Paid][badge-paid]  | Color correction and finishing tools. |
@@ -74,6 +60,21 @@ A curated list of essential plugins and tools for **Adobe After Effects** and **
 | **[mTitle / mGraph](https://www.motionvfx.com/store,mtitle-max,p2259.html?)** | ![AE][icon1], ![Resolve][icon2] | ![Paid][badge-paid]  | High-quality motion graphics and title packs. |
 | **[Karton](https://aescripts.com/karton/)** | ![AE][icon1] | ![Free][badge-free] | Dynamic text boxes and shape layers. |
 | **[Handy Particles](https://aescripts.com/handy-particles/)** | ![AE][icon1] | ![Paid][badge-paid]  | Particle systems specifically for motion design. |
+| **[Motion 4](https://www.mtmograph.com/products/motion-4)** | ![AE][icon1] | ![Paid][badge-paid] | The ultimate utility for Motion Design (Tools, Easing, Colors). |
+| **[Flow](https://aescripts.com/flow/)** | ![AE][icon1] | ![Paid][badge-paid] | Curve editor for easing keyframes. |
+| **[Ray Dynamic Color 2](https://aescripts.com/ray-dynamic-color/)** | ![AE][icon1] | ![Paid][badge-paid] | Color palette management and linking. |
+| **[Limber](https://aescripts.com/limber/)** | ![AE][icon1] | ![Paid][badge-paid] | IK system for character animation. |
+| **[Volna 2](https://aescripts.com/volna/)** | ![AE][icon1] | ![Paid][badge-paid] | Advanced strokes and particles along a path. |
+| **[Motion Tools](https://motiondesign.school/products/motion-tools-pro/)** | ![AE][icon1] | ![Paid][badge-paid] | All-in-one panel for easing, anchors, and shapes. |
+| **[Auto Crop](https://aescripts.com/auto-crop/)** | ![AE][icon1] | ![Paid][badge-paid] | Automatically crops comp duration and dimensions to content. |
+| **[True Comp Duplicator](https://aescripts.com/true-comp-duplicator/)** | ![AE][icon1] | ![Paid][badge-paid] | Deeply duplicate compositions and hierarchies. |
+| **[EaseCopy](https://aescripts.com/easecopy/)** | ![AE][icon1] | ![Free][badge-free] | Copy/paste easing without overwriting values. |
+| **[ButtCapper](https://www.battleaxe.co/buttcapper)** | ![AE][icon1] | ![Free][badge-free] | Quickly change stroke caps and joins. |
+| **[Motion Tools 2](https://motiondesign.school/products/motion-tools/)** | ![AE][icon1] | ![Free][badge-free] | Free version of the popular utility script. |
+| **[Ouroboros](https://aescripts.com/ouroboros/)** | ![AE][icon1] | ![Free][badge-free] | Multiple strokes on a single path. |
+| **[TextEvo](https://aescripts.com/textevo/)** | ![AE][icon1] | ![Free][badge-free] | Popular free text animation script. |
+| **[mCam Rig](https://www.motionvfx.com/store,mcam-rig,p3498.html)** | ![Resolve][icon2] | ![Free][badge-free] | Camera rig for dynamic movement. |
+
 
 ## 🧊 3D
 
