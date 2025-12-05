@@ -34,6 +34,20 @@ A curated list of essential plugins and tools for **Adobe After Effects** and **
 | **[Real Glow](https://aescripts.com/real-glow/)** | ![AE][icon1] | ![Paid][badge-paid]  | Realistic light falloff glow. |
 | **[Signal](https://aescripts.com/signal/)** | ![AE][icon1] | ![Paid][badge-paid]  | Analog video glitch emulation. |
 | **[Pixel Sorter](https://aescripts.com/pixel-sorter/)** | ![AE][icon1] | ![Paid][badge-paid]  | Glitch effect based on pixel sorting algorithms. |
+| **[Supercomp](https://www.maxon.net/en/product-detail/red-giant/vfx/supercomp)** | ![AE][icon1] | ![Paid][badge-paid]  | Seamless compositing of VFX elements. |
+| **[Primatte Keyer](https://www.maxon.net/en/product-detail/red-giant/vfx/primatte-keyer)** | ![AE][icon1], ![Resolve][icon2] | ![Paid][badge-paid]  | Professional chroma keying tool. |
+| **[Composite Brush](https://aescripts.com/composite-brush/)** | ![AE][icon1] | ![Paid][badge-paid]  | Color selector and modifier for keying. |
+| **[Dust Transition](https://aescripts.com/dust-transition/)** ([AE](https://aescripts.com/dust-transition/)), ([Resolve](https://aescripts.com/dust-transition-for-davinci-resolve/?)) | ![AE][icon1], ![Resolve][icon2] | ![Paid][badge-paid]  | Dissolve images into pixel-sized particles. |
+| **[Nebulosity](https://aescripts.com/nebulosity/)** | ![AE][icon1] | ![Paid][badge-paid]  | Volumetric nebula and cloud generation. |
+| **[Fractal Noise 3D](https://aescripts.com/fractal-noise-3d/)** | ![AE][icon1] | ![Paid][badge-paid]  | 3D fractal noise with depth control. |
+| **[Discotext](https://aescripts.com/discotext/)** | ![AE][icon1] | ![Paid][badge-paid]  | Animated text effects with particles and physics. |
+| **[Particle Builder](https://pixflow.net/particle-builder/)** | ![AE][icon1] | ![Free][badge-free] | Build custom particle systems easily. |
+| **[Break It](https://aescripts.com/break-it/?)** | ![AE][icon1] | ![Paid][badge-paid]  | Advanced shattering and destruction simulations. |
+
+## 🎥 Film Emulation
+
+| Plugin | Compatibility | Price | Description |
+| :--- | :---: | :---: | :--- |
 | **[Dehancer](https://www.dehancer.com/)** | ![AE][icon1], ![Resolve][icon2] | ![Paid][badge-paid]  | Complete film emulation (Grain, Bloom, Halation). |
 | **[FilmConvert Nitrate](https://www.filmconvert.com/)** | ![AE][icon1], ![Resolve][icon2] | ![Paid][badge-paid]  | Film stock emulation with sensor matching. |
 | **[Magic Bullet Suite](https://www.maxon.net/en/product-detail/red-giant/color/magicbullet-looks?)** | ![AE][icon1], ![Resolve][icon2] | ![Paid][badge-paid]  | Color correction and finishing tools. |
