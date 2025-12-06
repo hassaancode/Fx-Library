@@ -75,7 +75,7 @@ A curated list of essential plugins and tools for **Adobe After Effects** and **
 | **[Karton](https://aescripts.com/karton/)** | ![AE][icon1] | ![Free][badge-free] | Dynamic text boxes and shape layers. |
 | **[Handy Particles](https://aescripts.com/handy-particles/)** | ![AE][icon1] | ![Paid][badge-paid]  | Particle systems specifically for motion design. |
 | **[Motion 4](https://www.mtmograph.com/products/motion-4)** | ![AE][icon1] | ![Paid][badge-paid] | The ultimate utility for Motion Design (Tools, Easing, Colors). |
-| **[Flow](https://aescripts.com/flow/)** | ![AE][icon1] | ![Paid][badge-paid] | Curve editor for easing keyframes. |
+| **[Flow Script](https://aescripts.com/flow/)** | ![AE][icon1] | ![Paid][badge-paid] | Curve editor for easing keyframes. |
 | **[Ray Dynamic Color 2](https://aescripts.com/ray-dynamic-color/)** | ![AE][icon1] | ![Paid][badge-paid] | Color palette management and linking. |
 | **[Limber](https://aescripts.com/limber/)** | ![AE][icon1] | ![Paid][badge-paid] | IK system for character animation. |
 | **[Volna 2](https://aescripts.com/volna/)** | ![AE][icon1] | ![Paid][badge-paid] | Advanced strokes and particles along a path. |
