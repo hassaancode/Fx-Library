@@ -1,6 +1,12 @@
 # Effects Plugin Library
 
 A curated list of essential plugins and tools for **Adobe After Effects** and **DaVinci Resolve**.
+> [!Note]
+> 🤝 Contributions are welcome!
+> 1. Fork the repository.
+> 2. Create a new branch.
+> 3. Add the plugin to the appropriate section.
+> 4. Open a Pull Request.
 
 ## Table of Contents
 
